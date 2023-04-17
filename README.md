@@ -6,7 +6,7 @@
 
 ![](https://shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)  ![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)  ![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)  ![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 
-[SPOTIFY](http://spotify.com.br)  
+[![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](http://spotify.com.br)  
 [YOUTUBE](http://youtube.com.br)  
 [INSTAGRAM](http://instagram.com.br)   
 [TWITTER](http://twitter.com.br)
